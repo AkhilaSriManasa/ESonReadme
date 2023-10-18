@@ -1,3 +1,4 @@
+#Is there a correlation between Readme Content and Project meta-characteristics?"
 The folder "ResultsESonReadme.zip" presents the results of the study - "Is there a correlation between Readme Content and Project
 meta-characteristics?"
 The study aims to analyse the impact of presence of structural components (features) and contextual types (categories) in readme
