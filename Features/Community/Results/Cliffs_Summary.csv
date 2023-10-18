@@ -1,0 +1,11 @@
+,FID,N,S,M,L
+0,Animation,"CPP, Javascript, Typescript, Ruby, CSharp, PHP, C, Java, Go, Python",,,
+1,Video,"CPP, Javascript, Typescript, Ruby, CSharp, PHP, C, Java, Python",Go,,
+2,Table,"CPP, Javascript, Typescript, Ruby, CSharp, PHP, C, Java, Go, Python",,,
+3,Inline,"Javascript, PHP, C","Typescript, Ruby, CSharp, Java, Go","CPP, Python",
+4,Code,"Javascript, PHP, C, Go","CPP, Ruby, CSharp, Java, Python",Typescript,
+5,List,"Typescript, PHP","Javascript, C, Java","CPP, CSharp","Ruby, Go, Python"
+6,Project,"Typescript, Ruby, C, Java","CPP, PHP, Go, Python","Javascript, CSharp",
+7,Image,,"Typescript, PHP, Java",C,"CPP, Javascript, Ruby, CSharp, Go, Python"
+8,Github,,,"Typescript, PHP, C, Java","CPP, Javascript, Ruby, CSharp, Go, Python"
+9,Links,,,"PHP, C, Java","CPP, Javascript, Typescript, Ruby, CSharp, Go, Python"

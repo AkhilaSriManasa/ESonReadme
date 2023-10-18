@@ -1,0 +1,10 @@
+./script_C.sh
+./script_CPP.sh
+./script_CSharp.sh
+./script_Go.sh
+./script_Java.sh
+./script_Javascript.sh
+./script_PHP.sh
+./script_Python.sh
+./script_Ruby.sh
+./script_Typescript.sh

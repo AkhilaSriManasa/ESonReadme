@@ -1,0 +1,11 @@
+D_value,Result,Feature
+-0.3436965811965812,medium,List
+-0.6048076923076923,large,Image
+-0.04262820512820513,negligible,Animation
+-0.07478632478632478,negligible,Video
+-0.009615384615384616,negligible,Table
+-0.711431623931624,large,Github
+-0.7752136752136752,large,Links
+-0.18076923076923077,small,Project
+-0.2881410256410256,small,Inline
+-0.11367521367521367,negligible,Code

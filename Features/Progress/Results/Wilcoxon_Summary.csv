@@ -1,0 +1,11 @@
+,FID,PL,PM
+0,Image,"C, CPP, CSharp, Java, Javascript, PHP, Python, Ruby, Typescript",Go
+1,List,"CPP, CSharp, Python, Ruby","C, Go, Java, Javascript, PHP, Typescript"
+2,Github,"CPP, CSharp, Java, Javascript, PHP, Python, Ruby, Typescript","C, Go"
+3,Links,"CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript",C
+4,Project,"CPP, CSharp, Javascript, Python","C, Go, Java, PHP, Ruby, Typescript"
+5,Inline,"CPP, CSharp, Python, Ruby, Typescript","C, Go, Java, Javascript, PHP"
+6,Code,"Java, PHP, Python, Typescript","C, CPP, CSharp, Go, Javascript, Ruby"
+7,Animation,Python,"C, CPP, CSharp, Go, Java, Javascript, PHP, Ruby, Typescript"
+8,Video,Python,"C, CPP, CSharp, Go, Java, Javascript, PHP, Ruby, Typescript"
+9,Table,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"

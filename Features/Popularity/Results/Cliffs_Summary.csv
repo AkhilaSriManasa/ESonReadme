@@ -1,0 +1,45 @@
+,FID,N,S,M,L
+0,Animation,"C, CPP, CSharp, Go, Java, Javascript, PHP, Ruby, Typescript",Python,,
+1,Video,"C, CPP, CSharp, Go, Java, PHP, Ruby","Javascript, Python, Typescript",,
+2,Table,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript",,,
+3,Project,"C, PHP, Ruby, Typescript","CPP, Go, Java, Python","CSharp, Javascript",
+4,Code,"C, CSharp, Go, Java, PHP, Ruby","CPP, Javascript, Python",Typescript,
+5,fullname_x,C,,,
+6,URL,"C, CPP, Go, Java, Javascript, PHP, Python, Ruby, Typescript",CSharp,,
+7,language,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript",,,
+8,repository,"C, CPP, Go, Java, Javascript, PHP, Python, Ruby, Typescript",CSharp,,
+9,fullname_y,C,,,
+10,repository_ID,"CPP, CSharp, Go, Java, Python","C, Typescript",Javascript,"PHP, Ruby"
+11,fullname,"CPP, Go, Java, Javascript, PHP, Python, Ruby, Typescript",CSharp,,
+12,created_date,"CPP, CSharp, Go, Java, Python","C, Typescript",Javascript,"PHP, Ruby"
+13,Inline,PHP,"C, CPP, CSharp, Go, Javascript, Python, Ruby, Typescript",Java,
+14,downloads,"Ruby, Typescript","Java, Javascript, PHP, Python","C, CPP, CSharp, Go",
+15,releases,Ruby,"Python, Typescript","CPP, CSharp","C, Go, Java, Javascript, PHP"
+16,assets,"Ruby, Typescript","Java, Javascript, PHP, Python","C, CPP, CSharp",Go
+17,List,Typescript,PHP,"C, CPP, CSharp, Ruby","Go, Java, Javascript, Python"
+18,readme_issues,,Python,"C, CSharp, Java, PHP","CPP, Go, Javascript, Ruby, Typescript"
+19,Image,,Typescript,"Java, PHP","C, CPP, CSharp, Go, Javascript, Python, Ruby"
+20,Github,,,"PHP, Typescript","C, CPP, CSharp, Go, Java, Javascript, Python, Ruby"
+21,Links,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+22,description,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+23,number_of_stars,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+24,num_of_forks,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+25,num_of_watchers,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+26,open_issue_count,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+27,repo_id,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+28,open_prs,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+29,closed_prs,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+30,total_prs,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+31,community,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+32,commits,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+33,open_issues,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+34,closed_issues,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+35,total_issues,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+36,readme_commits,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+37,Apop_rank,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+38,Rank,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+39,Cpop_rank,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+40,Rank_real,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+41,Cpop_rank_real,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+42,Apop_rank_real,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+43,label,,,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"

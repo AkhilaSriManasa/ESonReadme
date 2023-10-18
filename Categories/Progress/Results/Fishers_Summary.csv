@@ -1,0 +1,10 @@
+,CID,PL,PM
+0,C7,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript",
+1,C1,"CPP, CSharp, Go, Java, Python, Typescript","C, Javascript, PHP, Ruby"
+2,C5,"CPP, CSharp, Go, Javascript, PHP, Python, Ruby, Typescript","C, Java"
+3,C6,"CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript",C
+4,C8,CPP,"C, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+5,C0,"CSharp, Python, Ruby","C, CPP, Go, Java, Javascript, PHP, Typescript"
+6,C3,CSharp,"C, CPP, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
+7,C4,"Go, Python, Ruby","C, CPP, CSharp, Java, Javascript, PHP, Typescript"
+8,C2,,"C, CPP, CSharp, Go, Java, Javascript, PHP, Python, Ruby, Typescript"
