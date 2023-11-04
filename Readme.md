@@ -15,7 +15,7 @@ For data files ("Res_language.csv") in Categories folder - The categories are in
 <br><br>
 For data files ("Res_language.csv") in Features folder - The feature counts in readme files are stored in the corresponding feature columns - "List","Image","Animation","Video","Table","Github","Links","Project","Inline","Code".
 <br><br>
-Replicating the Statistical Tests and Results:
+## Reproducing the Statistical Tests and Results:
 <br><br>
 Each of the project meta-characteristics folders contain a run.py for both Categories and Features, which executes the corresponding statistical tests in the order below on each of the programming languages, and can be executed as "python3 run.py":
 
